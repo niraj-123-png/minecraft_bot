@@ -13,8 +13,8 @@ app.listen(port, () => {
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'aapka-server-ip.com', // YAHAN APNI SMP KI IP DAALEIN
-        port: 25565,                 // Port change karein agar zaroorat ho
+        host: 'Suraj_gupta12.aternos.me', // YAHAN APNI SMP KI IP DAALEIN
+        port: 52211,                 // Port change karein agar zaroorat ho
         username: '24x7_AFK_Bot',    
         version: '1.20.4'            // Apna server version daalein
     });
