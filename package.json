@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.20.1"
+  }
+}
